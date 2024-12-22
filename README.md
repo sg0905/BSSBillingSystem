@@ -6,16 +6,17 @@ This project implements a basic Billing Support System (BSS) for managing custom
 
 * 1. Customer Data Management: *
 
-    Add new customer data and save it to a CSV file.
-    Load existing customer data from a CSV file.
+            Add new customer data and save it to a CSV file.
+            Load existing customer data from a CSV file.
 
-  * 2. Bill Generation: *
-    Calculate the total bill based on data usage, call minutes, and SMS count.
-    Display the bill details in a simple GUI.
+* 2. Bill Generation: *
+
+            Calculate the total bill based on data usage, call minutes, and SMS count.
+            Display the bill details in a simple GUI.
 
 
 # *Technologies Used*
 
-Java: Main programming language for implementing the system.
-Swing: For building a simple graphical user interface (GUI) to generate and display customer bills.
-File I/O (CSV): Load and save customer data to/from CSV files.
+    Java: Main programming language for implementing the system.
+    Swing: For building a simple graphical user interface (GUI) to generate and display                     customer bills.
+    File I/O (CSV): Load and save customer data to/from CSV files.
